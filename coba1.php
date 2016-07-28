@@ -23,5 +23,6 @@
 	}
 
 	echo "string";
+	echo "coba lagiiii";
 
 ?>
