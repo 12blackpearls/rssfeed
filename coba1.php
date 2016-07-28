@@ -27,4 +27,5 @@
 
 	echo "coba lagi";
 	echo "string";
+	echo "asdasd";
 ?>
