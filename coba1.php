@@ -23,5 +23,5 @@
 	}
 
 	echo "string";
-	echo "asdaddas";
+
 ?>
