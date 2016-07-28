@@ -23,5 +23,7 @@
 	}
 
 	echo "string";
+
+	echo 'asdsad';
 	
 ?>
