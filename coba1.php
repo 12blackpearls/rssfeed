@@ -21,4 +21,6 @@
 		echo '<small><em>Posted on '.$date.'</em></small></p>';
 		echo '<p>'.$description.'</p>';
 	}
+
+	echo "string";
 ?>
