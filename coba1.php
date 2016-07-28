@@ -24,6 +24,11 @@
 
 	echo "string";
 
+<<<<<<< HEAD
 	echo 'dsadsa';
+=======
+	echo 'asdsad';
+	echo 'hoy hoy';
+>>>>>>> fdac702a18f63c27ec81e7f1705d0dbc775a0188
 	
 ?>
