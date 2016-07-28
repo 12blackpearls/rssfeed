@@ -24,4 +24,6 @@
 
 	echo "string";
 
+	echo "coba lagi";
+
 ?>
