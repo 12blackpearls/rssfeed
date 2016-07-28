@@ -25,5 +25,6 @@
 	echo "string";
 
 	echo 'asdsad';
+	echo 'hoy hoy';
 	
 ?>
