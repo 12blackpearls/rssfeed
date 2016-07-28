@@ -23,9 +23,5 @@
 	}
 
 	echo "string";
-	echo "coba lagiiii";
-
-	echo "coba lagi";
-	echo "string";
-	echo "asdasd";
+	
 ?>
